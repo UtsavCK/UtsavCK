@@ -6,7 +6,7 @@ Student
 I'm an undergraduate student who is aspiring to be a frontend developer someday.
 
 *   🌍  I'm based in Nepal
-*   🖥️  See my portfolio at [UtsavCK](http://utsavck.github.io)
+*   🖥️  See my portfolio at [UtsavCK](https://www.utsavkayastha.com.np/)
 *   ✉️  You can contact me at [utsavkayastha.000@gmail.com](mailto:utsavkayastha.000@gmail.com)
 *   🧠  I'm learning JavaScript
   ### Skills 
